@@ -38,7 +38,7 @@ namespace QuWordFinderTests
         }
 
         [TestMethod]
-        public void Find_WordsFound_RepeteadWordsInWordstream()
+        public void Find_WordsFound_RepeatedWordsInWordstream()
         {
             // Arrange
             var matrix = new List<string> { "abcdc", "fgwio", "chill", "pqnsd", "uvdxy" };
